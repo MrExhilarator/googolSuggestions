@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.search-item{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-title{
+    font-family:"Roboto";
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.goto-icon{
+    height: 20px;
+    width: 20px;
+    align-self: flex-end;
+    cursor: pointer;
+}
